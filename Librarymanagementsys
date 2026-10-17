@@ -1,0 +1,28 @@
+run:
+=== LIBRARY MANAGEMENT ===
+Username: admin
+Password: Admin123!
+Welcome, admin
+
+1. Add book
+2. View books
+3. Update book
+4. Delete book
+5. Exit
+Choose: 2
+1 | Java Programming | John Smith | 6
+2 | Gamperaliya | Martin Wickramasinghe | 3
+3 | Java Basics | John Smith | 4
+4 | Java Basics | John Smith | 4
+5 | Java Basics | John Smith | 4
+6 | Java Basics | John Smith | 4
+7 | Java Basics | John Smith | 4
+
+1. Add book
+2. View books
+3. Update book
+4. Delete book
+5. Exit
+Choose: 5
+Goodbye!
+BUILD SUCCESSFUL (total time: 7 minutes 0 seconds)
